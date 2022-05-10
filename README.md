@@ -1,5 +1,5 @@
 ### Hi there 👋 
-All repositories with my profile and the content within are curated by me. I own the code I write and the pages I create. Do share and cite /reference these pages. Backlinks and content of those referenced repositories and pages are owned by the respective creators/maintainers. 
+All repositories with my profile and the content within are curated by me. I own the code I write and the pages I create. Do share and cite or reference these pages. Backlinks and content of those referenced repositories and pages are owned by the respective creators or maintainers. 
 
 <!--
 **rks101/rks101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
