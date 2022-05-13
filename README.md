@@ -1,5 +1,6 @@
 ### Hi there 👋 
-All repositories with my profile and the content within are curated by me. I own the code I write and the pages I create. 
+All repositories with my profile and the content within are curated by me. I own the code I write and the pages I create.    
+
 Please, do share and cite or reference these pages. Backlinks and content of those referenced repositories and pages are owned by the respective creators or maintainers. 
 
 <!--
