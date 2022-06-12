@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 <p>
     <a href="https://en.wikipedia.org/wiki/IBM_i" target="_blank" rel="noreferrer"><img src="images/IBMi_iSeries_AS400.png" width="36" height="36" alt="IBMi iSeries" /></a> 
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"><img src="images/tux.png" width="36" height="36" alt="Linux" /></a>
-    <a href="https://github.com/rks101/dualboot" target="_blank" rel="noreferrer"><img src="images/dualboot.png" width="36" height="36" alt="Linux" /></a>
+    <a href="https://github.com/rks101/dualboot" target="_blank" rel="noreferrer"><img src="images/dualboot.png" width="36" height="36" alt="Dual Boot" /></a>
+    <a href="https://iitjammu.ac.in/eg" target="_blank" rel="noreferrer"><img src="images/eg.png" width="36" height="36" alt="eGovernance Solutions" /></a>
 </p> 
 
 
