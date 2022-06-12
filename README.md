@@ -1,5 +1,5 @@
 ### Hi there 👋 
-All repositories with my profile and the content within are curated by me. I own the code I write and the pages I create.    
+All repositories with my profile and the content within are curated by me.    
 
 Please, do share and cite or reference these pages. Backlinks and content of those referenced repositories and pages are owned by the respective creators or maintainers. 
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <p>
     <a href="https://en.wikipedia.org/wiki/IBM_i" target="_blank" rel="noreferrer"><img src="images/IBMi_iSeries_AS400.png" width="36" height="36" alt="IBMi iSeries" /></a> 
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"><img src="images/tux.png" width="36" height="36" alt="Linux" /></a>
+    <a href="https://github.com/rks101/dualboot" target="_blank" rel="noreferrer"><img src="images/dualboot.png" width="36" height="36" alt="Linux" /></a>
 </p> 
 
 
