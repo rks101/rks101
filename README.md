@@ -35,7 +35,10 @@ Here are some ideas to get you started:
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="36" height="36" alt="NextJS" /></a> 
 </p>
+
+
 <p>
     <a href="https://en.wikipedia.org/wiki/IBM_i" target="_blank" rel="noreferrer"><img src="images/IBMi_iSeries_AS400.png" width="36" height="36" alt="IBMi iSeries" /></a> 
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"><img src="images/tux.png" width="36" height="36" alt="Linux" /></a>
