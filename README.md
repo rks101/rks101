@@ -1,7 +1,9 @@
 ### Hi there 👋 
 🌱 All repositories with my profile and the content within are curated by me.    
 
-✨ share and cite or reference ✨ these pages. For any errors, oversight or obsolete references, 💬 please let me know to improve the content.    
+✨ share and cite or reference ✨ these pages.    
+
+For any errors, oversight or obsolete references, 💬 please let me know to improve the content.    
 
 <!--
 Backlinks and content of those referenced repositories and pages are owned by the respective creators or maintainers. 
