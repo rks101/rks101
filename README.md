@@ -2,9 +2,9 @@
 🌱 All repositories with my profile and the content within are curated by me.    
 
 ✨ share and cite or reference ✨ these pages. For any errors, oversight or obsolete references, 💬 please let me know to improve the content.    
-[//]: # Backlinks and content of those referenced repositories and pages are owned by the respective creators or maintainers. 
 
 <!--
+Backlinks and content of those referenced repositories and pages are owned by the respective creators or maintainers. 
 **rks101/rks101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
