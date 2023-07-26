@@ -5,8 +5,8 @@
 
 For any errors, oversight, or obsolete references, 💬 please let me know to improve the content.    
 
->_“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
->— Richard Feynman    
+> _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
+— Richard Feynman    
 
 <!--
 The respective creators or maintainers own backlinks and content of those referenced repositories and pages. 
