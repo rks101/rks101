@@ -8,7 +8,7 @@ For any errors, oversight, or obsolete references, 💬 please let me know to im
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
 — Richard Feynman    
 
-I only work with Human Intelligence (HI) and Human Learning (HL), nothing Artificial or Machine. I have not understood any other way based on the first principles. Human touch should remain alive irrespective of the software or programmed devices.     
+I only work with Human Intelligence (HI) and Human Learning (HL), nothing Artificial or Machine. I have not understood any other learning method based on the first principles. Human touch should remain alive irrespective of the software or programmed devices.     
 
 <!--
 The respective creators or maintainers own backlinks and content of those referenced repositories and pages. 
