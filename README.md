@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Namaste :pray:  
 <!--🌱 All repositories with my profile and the content within are curated by me.    -->
 
 ✨ Share, cite, or reference ✨ these pages.    
