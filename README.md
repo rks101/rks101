@@ -8,7 +8,7 @@
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
 — Richard Feynman    
 
-I only work with Human Intelligence (HI) and Human Learning (HL), nothing Artificial or Machine. I have not understood any other learning method based on the first principles. Human touch should remain alive with the software or programmed devices.     
+I can only work with my Human Intelligence (HI) and Human Learning (HL). I have not understood any other learning method based on the first principles. Human touch should remain alive with the software or programmed devices.     
 
 <!--
 The respective creators or maintainers own backlinks and content of those referenced repositories and pages. 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="36" height="36" alt="NextJS" /></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" background-color="white"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="36" height="36" alt="NextJS" /></a> 
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" width="36" height="36" alt="LaTeX" /></a>
     
 </p>
