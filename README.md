@@ -8,9 +8,11 @@
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
 — Richard Feynman    
 
-I can only work with my Human Intelligence (HI) and Human Learning (HL). I have not understood any other learning method based on the first principles. Human touch should remain alive with the software or programmed devices.     
+Human Intelligence is essential. Human touch should remain alive with software or programmed devices.     
 
 <!--
+I can only work with my Human Intelligence (HI) and Human Learning (HL). I have not understood any other learning method based on the first principles. 
+
 The respective creators or maintainers own backlinks and content of those referenced repositories and pages. 
 **rks101/rks101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
