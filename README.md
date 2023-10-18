@@ -1,19 +1,19 @@
 ### Namaste :pray:  
-<!--🌱 All repositories with my profile and the content within are curated by me.    -->
 
-✨ You can share, cite, or reference these pages.    
+🌱 I started these repositories for solving problems and answering questions one page at time. Some pages may be hidden or redacted.    
 
-🌱 For any errors, oversight, or obsolete references, 💬 please let me know to improve the content.    
+✨ Share, cite, or reference these pages.    
+
+🌱 For any error, oversight, or obsolete references, 💬 let me know how to improve the content.    
 
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
 — Richard Feynman    
 
-Human Intelligence is essential. Human touch should remain alive with software or programmed devices.     
+🌱 Human Intelligence is essential. Human touch should remain alive with software, security, automation or programmed devices.     
 
 <!--
-I can only work with my Human Intelligence (HI) and Human Learning (HL). I have not understood any other learning method based on the first principles. 
+🔭 Also, I’m currently learning "Selected Topics in Cognitive and Behavioural Science" - especially the kinds of systematic biases or challenges we live with.     
 
-The respective creators or maintainers own backlinks and content of those referenced repositories and pages. 
 **rks101/rks101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
