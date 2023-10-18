@@ -1,6 +1,6 @@
 ### Namaste :pray:  
 
-🌱 I started these repositories for solving problems and answering questions one page at time. Some pages may be hidden or redacted.    
+🌱 I started these repositories for solving problems and answering questions one para at a time. Some pages may be hidden or redacted.    
 
 ✨ Share, cite, or reference these pages.    
 
