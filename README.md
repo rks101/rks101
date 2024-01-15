@@ -6,9 +6,9 @@
 
 > @misc{rks101,
   author = {RKS},
-  title = {GitHub repo},
-  howpublished = {\url{https://github.com/rks101}},
-  note = {},
+  title = {GitHub repo at rks101},
+  howpublished = {\url{https://github.com/rks101 }},
+  note = {Add note},
   year = {2018-2024}
 }
 
