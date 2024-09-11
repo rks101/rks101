@@ -2,7 +2,7 @@
 
 🌱 I started these repositories for solving problems one para at a time.   
 
-✨ Share, cite, or reference these pages - the homepage or a specific repo.    
+✨ Please share, cite, or reference these pages - the homepage or a specific repo.    
 
 > @misc{rks101,
   author = {rks},
@@ -20,14 +20,14 @@
   year = {2018-2024}
 } 
 
-🌱 For any error, oversight, or obsolete references, 💬 let me know how to improve the content.    
+🌱 For errors, oversight, or obsolete references, 💬 let me know how to improve the content.    
 
+🌱 Human Intelligence is essential. Human touch should remain alive with software, security, automation, or programmed devices. Invest more in people and less in devices.     
+
+<!--
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
 — Richard Feynman    
 
-🌱 Human Intelligence is essential. Human touch should remain alive with software, security, automation, or programmed devices. Invest more in people, less in devices.     
-
-<!--
 🔭 Also, I’m currently learning "Selected Topics in Cognitive and Behavioural Science" - especially the kinds of systematic biases or challenges we live with.     
 
 **rks101/rks101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
