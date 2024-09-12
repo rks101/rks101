@@ -1,10 +1,10 @@
 ### Namaste :pray:  
 
-🌱 I started these pages and repositories for solving problems one para at a time.   
+🌱 I started these pages and repositories for solving problems one para at a time.    
 
 🌱 For errors, oversight, or obsolete references, 💬 let me know how to improve the content.    
 
-🌱 Human Intelligence is essential. Human touch should remain alive with software, security, automation, or programmed devices. Invest more in people and less in devices.     
+🌱 Human Intelligence is essential. Human touch should remain alive with software, security, automation, or programmed devices.     
 
 <!--
 ✨ Please share, cite, or reference these pages - the homepage or a specific repo.    
