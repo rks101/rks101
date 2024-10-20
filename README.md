@@ -4,7 +4,7 @@
 
 🌱 For errors, oversight, or obsolete references, 💬 let me know how to improve the content.    
 
-🌱 Human Intelligence is essential. Human touch should remain alive with software, security, automation, or programmed devices.     
+🌱 Human Intelligence is essential. Human touch should remain alive with software, security, or automation.     
 
 <!--
 ✨ Please share, cite, or reference these pages - the homepage or a specific repo.    
