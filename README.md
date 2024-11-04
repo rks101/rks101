@@ -73,7 +73,7 @@ Here are some ideas to get you started:
     <a href="https://iitjammu.ac.in/saral" target="_blank" rel="noreferrer"><img src="images/eg.png" width="36" height="36" alt="eGovernance Solutions" /></a>
 </p> 
 
-
-
+<!-- THM profile -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" style='border:none;'></iframe>
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=rks101)-->
