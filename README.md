@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 </p> 
 
 <!-- THM profile -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" style='border:none;'></iframe>
+<!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" style='border:none;'></iframe> -->
+<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" targte="_blank" rel="noreferrer"><img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" width="125" height="50" alt="THM Profile" /></a>
+
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=rks101)-->
