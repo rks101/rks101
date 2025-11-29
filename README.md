@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Privacy Disclosure 
+
+The developer has disclosed that it will not collect or use your data.   
+This developer declares that your data is:   
+- Not being sold to third parties, no exceptions.   
+- Not being used or transferred for purposes that are unrelated to the core functionality of pages.   
 
 ### Skills
 
