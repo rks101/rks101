@@ -6,6 +6,16 @@
 
 🌱 Human Intelligence is essential. Human touch should remain alive with software, security, or automation.     
 
+
+✨ To make penguins happy, please share, cite, or reference these pages - the homepage or a specific repo. 
+> @misc{rks101-eglinux,
+  author = {rks},
+  title = {GitHub repo eglinux},
+  howpublished = {\url{https://github.com/rks101/eglinux }},
+  note = {Helpful Linux discussions},
+  year = {2018-2025}
+} 
+
 <!--
 ✨ Please share, cite, or reference these pages - the homepage or a specific repo.    
 
@@ -16,14 +26,6 @@
   note = {Add note},
   year = {2018-2025}
 }
-
-> @misc{rks101-eglinux,
-  author = {rks},
-  title = {GitHub repo eglinux},
-  howpublished = {\url{https://github.com/rks101/eglinux }},
-  note = {Helpful Linux utilities},
-  year = {2018-2025}
-} 
 
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
 — Richard Feynman    
