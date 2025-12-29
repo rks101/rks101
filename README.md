@@ -6,8 +6,8 @@
 
 🌱 Human Intelligence is essential. Human touch should remain alive with software, security, or automation.     
 
-
 ✨ To make penguins happy, please share, cite, or reference these pages - the homepage or a specific repo. 
+<!--
 > @misc{rks101-eglinux,
   author = {rks},
   title = {GitHub repo eglinux},
@@ -16,7 +16,6 @@
   year = {2018-2025}
 } 
 
-<!--
 ✨ Please share, cite, or reference these pages - the homepage or a specific repo.    
 
 > @misc{rks101,
@@ -44,13 +43,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### Privacy Disclosure 
 
 The developer has disclosed that it will not collect or use your data.   
 The developer declares that your submitted data (if any) is:   
 - Not being sold to third parties, no exceptions.   
 - Not being used or transferred for purposes that are unrelated to the core functionality of pages.   
+-->
 
 ### Skills
 
