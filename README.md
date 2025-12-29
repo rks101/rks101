@@ -14,7 +14,7 @@
   title = {GitHub repo at rks101},
   howpublished = {\url{https://github.com/rks101 }},
   note = {Add note},
-  year = {2018-2024}
+  year = {2018-2025}
 }
 
 > @misc{rks101-eglinux,
@@ -22,7 +22,7 @@
   title = {GitHub repo eglinux},
   howpublished = {\url{https://github.com/rks101/eglinux }},
   note = {Helpful Linux utilities},
-  year = {2018-2024}
+  year = {2018-2025}
 } 
 
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### Privacy Disclosure 
 
 The developer has disclosed that it will not collect or use your data.   
-This developer declares that your data is:   
+The developer declares that your submitted data (if any) is:   
 - Not being sold to third parties, no exceptions.   
 - Not being used or transferred for purposes that are unrelated to the core functionality of pages.   
 
@@ -81,7 +81,7 @@ This developer declares that your data is:
 
 <!-- THM profile -->
 <!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" style='border:none;'></iframe> -->
-<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" targte="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Rane.Doe.png" alt="THM Profile" /></a>
+<!--<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" targte="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Rane.Doe.png" alt="THM Profile" /></a>-->
 
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=rks101)-->
