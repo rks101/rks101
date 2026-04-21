@@ -24,7 +24,7 @@
   year = {2018-2026}
 } 
 
-![Tux, the Linux mascot](/images/tux.png)
+![Tux, the Linux mascot](https://en.wikipedia.org/wiki/Tux_(mascot)#/media/File:Tux.svg)
 
 <!--
 > _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
