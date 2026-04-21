@@ -13,13 +13,13 @@
   title = {GitHub repo eglinux},
   howpublished = {\url{https://github.com/rks101/eglinux }},
   note = {Helpful Linux discussions},
-  year = {2018-2025}
+  year = {2018-2026}
 } 
 
 ✨ Please share, cite, or reference these pages - the homepage or a specific repo.    
 -->
 
-> @misc{rks101,
+@misc{rks101,
   author = {rks},
   title = {GitHub repo at rks101},
   howpublished = {\url{https://github.com/rks101 }},
