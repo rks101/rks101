@@ -55,7 +55,6 @@ The developer declares that your submitted data (if any) is:
 ### Skills
 
 <p align="left"> 
-    <!-- https://www.bell-labs.com/usr/dmr/www/cman.pdf -->
     <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank" rel="noreferrer"><img src="images/c.svg" width="36" height="36" alt="C" /></a> 
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="images/cpp.svg" width="36" height="36" alt="C++" /></a> 
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> 
@@ -70,9 +69,7 @@ The developer declares that your submitted data (if any) is:
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="36" height="36" alt="NextJS" /></a> 
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" color="white" display="inline-block" width="36" height="36" alt="LaTeX" /></a>
-    
 </p>
-
 
 <p>
     <a href="https://en.wikipedia.org/wiki/IBM_i" target="_blank" rel="noreferrer"><img src="images/IBMi_iSeries_AS400.png" width="36" height="36" alt="IBMi iSeries" /></a> 
