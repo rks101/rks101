@@ -6,7 +6,7 @@
 
 🌱 Human Intelligence is essential. Human touch should remain alive with software, security, or automation.     
 
-✨ To make penguins happy, please share, cite, or reference these pages - the homepage or a specific repo. 
+✨ To make penguins happy, please share, cite, or reference these pages - the homepage, rks101, or a specific repo. 
 
 @misc{rks101,
   author = {rks},
@@ -24,30 +24,23 @@
   year = {2018-2026}
 } 
 
-
 <!--
-> _“I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!”_     
-— Richard Feynman    
-
-**rks101/rks101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 currently working on ...
+- 🌱 learning ...
+- 👯 looking to collaborate on ...
+- 🤔 looking for help with ...
+- 💬 correct/feedback about ...
+- 📫 reach me: ...
 - ⚡ Fun fact: ...
 -->
+
 <!--
 ### Privacy Disclosure 
 
-The developer has disclosed that it will not collect or use your data.   
-The developer declares that your submitted data (if any) is:   
+It does not and will not collect or use your data.   
+Your visits, submitted data (if any), are:   
 - Not being sold to third parties, no exceptions.   
-- Not being used or transferred for purposes that are unrelated to the core functionality of pages.   
+- Not being used or transferred for unintended purposes.   
 -->
 
 <!--
@@ -65,8 +58,7 @@ The developer declares that your submitted data (if any) is:
 -->
 
 <!-- THM profile -->
-<!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" style='border:none;'></iframe> -->
-<!--<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" targte="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Rane.Doe.png" alt="THM Profile" /></a>-->
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" style='border:none;'></iframe> 
+<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1920690" targte="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Rane.Doe.png" alt="THM Profile" /></a>
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=rks101)-->
