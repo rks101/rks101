@@ -2,7 +2,7 @@
 
 🌱 I started these pages and repositories for solving problems one para at a time.    
 
-Everything that needs to be said has already been said. Since, some of us were not listening of reading, everything must be said again!    
+Everything that needs to be said has already been said. Since, some of us were not listening or reading, everything must be said again!    
 
 🌱 For errors, oversight, or obsolete references, 💬 let me know how to improve the content.    
 
