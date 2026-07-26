@@ -7,13 +7,18 @@
 
 🐧🐧🐧 To make penguins happy, please share, cite, or reference the homepage, rks101, or a specific repo.   
 
-@misc{rks101,
+<details>
+  <summary>rks101</summary>
+<p> @misc{rks101,
   author = {rks},
   title = {GitHub repos at rks101},
   howpublished = {\url{https://github.com/rks101}},
   note = {Notes by rks},
   year = {2018-2026}
 }
+</p>
+  
+</details>
 
 @misc{rks101-eglinux,
   author = {rks},
