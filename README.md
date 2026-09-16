@@ -55,7 +55,7 @@
   </p>
 </details>
 
-🤔 Currently working on ... web+/apps and data protection because portals in our country 🇮🇳 need love ❤️!    
+🤔 Currently looking into ... web applications and data protection matters because portals we use, need love ❤️!    
 👯 Looking forward to collaborate and organise content on these repos ...    
 
 <!--
