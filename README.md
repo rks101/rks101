@@ -4,7 +4,6 @@
 
 🌱 I started these pages and repositories for solving problems one para at a time. These are, mostly, my notes to refer them back anytime!    
 🌱 For errors, oversight, or obsolete references, 💬 let me know how to improve the content.    
-
 🌱 Human Intelligence is essential. Human touch should remain alive with software, security, or automation.     
 
 🐧🐧🐧 To make penguins happy, please share, cite, or reference the homepage, rks101, or a specific repo.   
@@ -57,8 +56,7 @@
   </p>
 </details>
 
-🤔 Currently looking into ... web applications and data protection matters because portals we use, need love ❤️!    
-👯 Looking forward to collaborate and organise content on these repos ...    
+🤔 Currently looking into ... web applications and data protection matters because portals we use, need love ❤️!  👯 Looking forward to collaborate and organise content on these repos ...    
 
 <!--
 - 🌱 learning ...
